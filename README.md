@@ -1,10 +1,6 @@
 <h1 align="center">Hi , I'm Thandokuhle Jingela</h1>
 <h3 align="center">Data Analyst & Business Intelligence Graduate | Aspiring Data Scientist & Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thandokuhle-Jingela&color=blue&style=flat-square" alt="Profile Visitor Count" />
-</p>
-
 ---
 
 ###  About Me
